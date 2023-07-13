@@ -1,0 +1,1 @@
+{"seller": {"Dealer": 1, "Individual": 0}, "transmission": {"Manual": 1, "Automatic": 0}, "Column Names": ["Year", "Present_Price", "Kms_Driven", "Seller_Type", "Transmission", "Owner", "Fuel_Type_CNG", "Fuel_Type_Diesel", "Fuel_Type_Petrol"]}
