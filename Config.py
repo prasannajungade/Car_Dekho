@@ -1,6 +1,6 @@
 import os 
 
-PORT_NUMBER=5006
+PORT_NUMBER=8080
 
 MODLE_FILE_PATH =r"static\models\linear_regression_car_dekho.pkl"
 
