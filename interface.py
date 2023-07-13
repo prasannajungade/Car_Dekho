@@ -42,5 +42,5 @@ def pred_charges():
     return render_template("new_one.html",prediction =pred_price)
     
 if __name__ =="__main__":
-    app.run(host="0.0.0.0",port=Config.PORT_NUMBER)
+    app.run(host="0.0.0.0",port=Config.PORT_NUMBER,debug=False)
 
